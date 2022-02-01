@@ -10,4 +10,6 @@ After clone repositore you need use:
 
 > node app.js
 
+>Write 'localhost:3100' to your browser and check uploading!
+
 Upload files will be in /uploadFiles folder
